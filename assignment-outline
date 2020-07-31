@@ -1,0 +1,41 @@
+#assignment sketch
+
+Example near start:
+-model differential equation of RL circuit
+-wrap a control around
+
+(try step, transfer function)
+
+Example near end:
+
+time series: steps and ramps
+parametesr: use your student number
+show output at circuit
+
+
+Wek 1: single ; laplacian; do rom stcrathc
+introduce average model
+
+WEek 2: give them DC machine circuit
+
+Week 3: assignment: do park transformation
+
+Week 4: indicative:  doubly fed
+
+Week 5: now turn in
+
+Wek 7 a governor
+
+
+Week 9 AVR with VSC
+
+Week 10: vsc with cosphi regulation
+
+Week 11: LV ride through
+
+Actual study:
+
+formulae: submit written, submit simulink models
+
+outcome: models of these units
+
